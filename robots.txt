@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rombensonn.github.io/zln-garage-landing/sitemap.xml
